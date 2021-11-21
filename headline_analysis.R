@@ -32,7 +32,7 @@ rows_government <- select_rows('RZĄD')
 rows_aborcja <- select_rows('ABORCJ')
 rows_TVN <- select_rows('TVN')
 rows_TVP <- select_rows('TVP')
-rows_imigr <- select_rows('IMIGRAN')
+rows_imigr <- select_rows('MIGRAN')
 
 # count of titles by source
 count_ONET_rows = nrow(headlines[which(headlines$SOURCE=='ONET'),])
