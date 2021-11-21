@@ -17,7 +17,7 @@ serwisach informacyjnych. Należy mieć na uwadze, że skrypt porównuje tylko i
 Nagłówki wykorzystane do stworzenia statystyk zostały pobrane i zapisane z udostępnionych do wiadomości publicznej treści serwisów internetowych 
 (https://www.onet.pl i https://www.tvp.info). Dane były pobierane od 03.11.2021 do 21.11.2021 - w godzinach popołudniowych.
 
-## Uruchomienie projektu
+## Uruchomienie_projektu
 
 By uruchomić projekt na lokalnym komputerze w pierwszej kolejności należy uzupełnić skrypt w folderze "connDataBase" poprawnymi wartościami
 (zmienna server, database, username i password). Następnie należy zmienić nazwę pliku z "ConnLocalDatabase_example.py" na "ConnLocalDatabase.py".
