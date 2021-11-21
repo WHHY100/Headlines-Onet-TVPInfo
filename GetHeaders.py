@@ -10,6 +10,7 @@ from connDataBase.ConnLocalDatabase import cursor, cnxn
 
 # name table in database
 name_table = 'TAB_HEADLINES_MEDIA'
+
 # define csv path
 path_csv = 'C:/Users/doria/PycharmProjects/pythonProject/CSV_FILE/headlines.csv'
 
